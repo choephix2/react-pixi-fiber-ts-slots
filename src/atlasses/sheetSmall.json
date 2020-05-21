@@ -1,0 +1,52 @@
+{"frames": {
+
+"mystery_big_glow_on_win":
+{
+	"frame": {"x":0,"y":0,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"mystery_highlight":
+{
+	"frame": {"x":89,"y":152,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"mystery_pad":
+{
+	"frame": {"x":89,"y":204,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":46,"h":46},
+	"sourceSize": {"w":50,"h":50}
+},
+"mystery_small_glow_on_win":
+{
+	"frame": {"x":0,"y":152,"w":87,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":87},
+	"sourceSize": {"w":87,"h":87}
+},
+"winnings_background":
+{
+	"frame": {"x":137,"y":204,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheetSmall.png",
+	"format": "RGBA8888",
+	"size": {"w":162,"h":250},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:124c2c9d358bb0d010f67a8a838d6fe1:ed236a3ad71ca65bba019a1cff00bb5a:ee2ec72657fbb82c1bfaf96f8c7d00e2$"
+}
+}
